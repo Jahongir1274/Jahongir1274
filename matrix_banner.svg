@@ -1,0 +1,169 @@
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="120" fill="url(#bgGrad)"/>
+  <text x="-2" y="-20" font-family="monospace" font-size="16" fill="#00b32d" opacity="0.52">エ
+    <animate attributeName="y" from="-20" to="140" dur="4.92s" begin="3.93s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4.92s" begin="3.93s" repeatCount="indefinite"/>
+  </text>
+  <text x="23" y="-20" font-family="monospace" font-size="16" fill="#00ff41" opacity="0.75">キ
+    <animate attributeName="y" from="-20" to="140" dur="4.09s" begin="0.15s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4.09s" begin="0.15s" repeatCount="indefinite"/>
+  </text>
+  <text x="39" y="-20" font-family="monospace" font-size="16" fill="#00ff41" opacity="0.49">山
+    <animate attributeName="y" from="-20" to="140" dur="4.08s" begin="3.11s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4.08s" begin="3.11s" repeatCount="indefinite"/>
+  </text>
+  <text x="59" y="-20" font-family="monospace" font-size="16" fill="#33ff77" opacity="0.55">エ
+    <animate attributeName="y" from="-20" to="140" dur="5.28s" begin="1.76s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="5.28s" begin="1.76s" repeatCount="indefinite"/>
+  </text>
+  <text x="78" y="-20" font-family="monospace" font-size="16" fill="#00ff41" opacity="1.0">テ
+    <animate attributeName="y" from="-20" to="140" dur="3.74s" begin="1.31s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.74s" begin="1.31s" repeatCount="indefinite"/>
+  </text>
+  <text x="98" y="-20" font-family="monospace" font-size="16" fill="#00ff41" opacity="0.4">雨
+    <animate attributeName="y" from="-20" to="140" dur="3.35s" begin="3.58s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.35s" begin="3.58s" repeatCount="indefinite"/>
+  </text>
+  <text x="118" y="-20" font-family="monospace" font-size="16" fill="#00ff41" opacity="0.63">日
+    <animate attributeName="y" from="-20" to="140" dur="3.34s" begin="1.18s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.34s" begin="1.18s" repeatCount="indefinite"/>
+  </text>
+  <text x="137" y="-20" font-family="monospace" font-size="16" fill="#00b32d" opacity="0.94">シ
+    <animate attributeName="y" from="-20" to="140" dur="3.7s" begin="3.31s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.7s" begin="3.31s" repeatCount="indefinite"/>
+  </text>
+  <text x="161" y="-20" font-family="monospace" font-size="16" fill="#33ff77" opacity="0.56">ア
+    <animate attributeName="y" from="-20" to="140" dur="4.29s" begin="4.31s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4.29s" begin="4.31s" repeatCount="indefinite"/>
+  </text>
+  <text x="182" y="-20" font-family="monospace" font-size="16" fill="#00ff41" opacity="0.36">ケ
+    <animate attributeName="y" from="-20" to="140" dur="3.45s" begin="2.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.45s" begin="2.3s" repeatCount="indefinite"/>
+  </text>
+  <text x="202" y="-20" font-family="monospace" font-size="16" fill="#00ff41" opacity="0.63">キ
+    <animate attributeName="y" from="-20" to="140" dur="4.76s" begin="2.23s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4.76s" begin="2.23s" repeatCount="indefinite"/>
+  </text>
+  <text x="221" y="-20" font-family="monospace" font-size="16" fill="#00b32d" opacity="0.5">チ
+    <animate attributeName="y" from="-20" to="140" dur="3.71s" begin="2.48s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.71s" begin="2.48s" repeatCount="indefinite"/>
+  </text>
+  <text x="240" y="-20" font-family="monospace" font-size="16" fill="#00ff41" opacity="0.95">0
+    <animate attributeName="y" from="-20" to="140" dur="3.16s" begin="1.03s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.16s" begin="1.03s" repeatCount="indefinite"/>
+  </text>
+  <text x="260" y="-20" font-family="monospace" font-size="16" fill="#00b32d" opacity="0.85">日
+    <animate attributeName="y" from="-20" to="140" dur="3.95s" begin="3.94s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.95s" begin="3.94s" repeatCount="indefinite"/>
+  </text>
+  <text x="278" y="-20" font-family="monospace" font-size="16" fill="#33ff77" opacity="0.36">テ
+    <animate attributeName="y" from="-20" to="140" dur="5.21s" begin="0.96s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="5.21s" begin="0.96s" repeatCount="indefinite"/>
+  </text>
+  <text x="301" y="-20" font-family="monospace" font-size="16" fill="#33ff77" opacity="0.75">セ
+    <animate attributeName="y" from="-20" to="140" dur="4.87s" begin="1.54s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4.87s" begin="1.54s" repeatCount="indefinite"/>
+  </text>
+  <text x="318" y="-20" font-family="monospace" font-size="16" fill="#00b32d" opacity="0.53">ケ
+    <animate attributeName="y" from="-20" to="140" dur="2.76s" begin="1.99s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="2.76s" begin="1.99s" repeatCount="indefinite"/>
+  </text>
+  <text x="342" y="-20" font-family="monospace" font-size="16" fill="#33ff77" opacity="0.53">セ
+    <animate attributeName="y" from="-20" to="140" dur="3.0s" begin="3.51s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.0s" begin="3.51s" repeatCount="indefinite"/>
+  </text>
+  <text x="357" y="-20" font-family="monospace" font-size="16" fill="#00ff41" opacity="0.95">サ
+    <animate attributeName="y" from="-20" to="140" dur="5.35s" begin="2.84s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="5.35s" begin="2.84s" repeatCount="indefinite"/>
+  </text>
+  <text x="380" y="-20" font-family="monospace" font-size="16" fill="#00ff41" opacity="0.62">カ
+    <animate attributeName="y" from="-20" to="140" dur="3.66s" begin="0.53s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.66s" begin="0.53s" repeatCount="indefinite"/>
+  </text>
+  <text x="402" y="-20" font-family="monospace" font-size="16" fill="#00b32d" opacity="0.47">日
+    <animate attributeName="y" from="-20" to="140" dur="3.7s" begin="3.54s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.7s" begin="3.54s" repeatCount="indefinite"/>
+  </text>
+  <text x="423" y="-20" font-family="monospace" font-size="16" fill="#00b32d" opacity="0.47">セ
+    <animate attributeName="y" from="-20" to="140" dur="5.5s" begin="4.26s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="5.5s" begin="4.26s" repeatCount="indefinite"/>
+  </text>
+  <text x="440" y="-20" font-family="monospace" font-size="16" fill="#00b32d" opacity="0.86">カ
+    <animate attributeName="y" from="-20" to="140" dur="4.51s" begin="1.11s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4.51s" begin="1.11s" repeatCount="indefinite"/>
+  </text>
+  <text x="462" y="-20" font-family="monospace" font-size="16" fill="#00b32d" opacity="0.69">キ
+    <animate attributeName="y" from="-20" to="140" dur="4.69s" begin="1.98s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4.69s" begin="1.98s" repeatCount="indefinite"/>
+  </text>
+  <text x="479" y="-20" font-family="monospace" font-size="16" fill="#33ff77" opacity="0.91">ア
+    <animate attributeName="y" from="-20" to="140" dur="3.03s" begin="4.61s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.03s" begin="4.61s" repeatCount="indefinite"/>
+  </text>
+  <text x="498" y="-20" font-family="monospace" font-size="16" fill="#00b32d" opacity="0.93">タ
+    <animate attributeName="y" from="-20" to="140" dur="3.45s" begin="1.08s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.45s" begin="1.08s" repeatCount="indefinite"/>
+  </text>
+  <text x="520" y="-20" font-family="monospace" font-size="16" fill="#00ff41" opacity="0.35">テ
+    <animate attributeName="y" from="-20" to="140" dur="3.07s" begin="2.32s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.07s" begin="2.32s" repeatCount="indefinite"/>
+  </text>
+  <text x="543" y="-20" font-family="monospace" font-size="16" fill="#00ff41" opacity="0.96">0
+    <animate attributeName="y" from="-20" to="140" dur="4.28s" begin="4.96s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4.28s" begin="4.96s" repeatCount="indefinite"/>
+  </text>
+  <text x="562" y="-20" font-family="monospace" font-size="16" fill="#00b32d" opacity="0.4">セ
+    <animate attributeName="y" from="-20" to="140" dur="5.29s" begin="2.41s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="5.29s" begin="2.41s" repeatCount="indefinite"/>
+  </text>
+  <text x="578" y="-20" font-family="monospace" font-size="16" fill="#00b32d" opacity="0.52">0
+    <animate attributeName="y" from="-20" to="140" dur="2.99s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="2.99s" begin="0.8s" repeatCount="indefinite"/>
+  </text>
+  <text x="598" y="-20" font-family="monospace" font-size="16" fill="#00b32d" opacity="0.76">ツ
+    <animate attributeName="y" from="-20" to="140" dur="3.71s" begin="2.88s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.71s" begin="2.88s" repeatCount="indefinite"/>
+  </text>
+  <text x="617" y="-20" font-family="monospace" font-size="16" fill="#33ff77" opacity="0.5">川
+    <animate attributeName="y" from="-20" to="140" dur="2.59s" begin="2.76s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="2.59s" begin="2.76s" repeatCount="indefinite"/>
+  </text>
+  <text x="637" y="-20" font-family="monospace" font-size="16" fill="#00ff41" opacity="0.88">ツ
+    <animate attributeName="y" from="-20" to="140" dur="3.11s" begin="0.15s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.11s" begin="0.15s" repeatCount="indefinite"/>
+  </text>
+  <text x="660" y="-20" font-family="monospace" font-size="16" fill="#33ff77" opacity="0.99">ソ
+    <animate attributeName="y" from="-20" to="140" dur="3.72s" begin="1.95s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.72s" begin="1.95s" repeatCount="indefinite"/>
+  </text>
+  <text x="681" y="-20" font-family="monospace" font-size="16" fill="#00ff41" opacity="0.49">0
+    <animate attributeName="y" from="-20" to="140" dur="2.65s" begin="4.13s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="2.65s" begin="4.13s" repeatCount="indefinite"/>
+  </text>
+  <text x="703" y="-20" font-family="monospace" font-size="16" fill="#00b32d" opacity="0.88">ス
+    <animate attributeName="y" from="-20" to="140" dur="5.04s" begin="3.34s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="5.04s" begin="3.34s" repeatCount="indefinite"/>
+  </text>
+  <text x="717" y="-20" font-family="monospace" font-size="16" fill="#00ff41" opacity="0.79">ツ
+    <animate attributeName="y" from="-20" to="140" dur="3.64s" begin="3.03s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3.64s" begin="3.03s" repeatCount="indefinite"/>
+  </text>
+  <text x="738" y="-20" font-family="monospace" font-size="16" fill="#00b32d" opacity="0.7">イ
+    <animate attributeName="y" from="-20" to="140" dur="5.2s" begin="1.89s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="5.2s" begin="1.89s" repeatCount="indefinite"/>
+  </text>
+  <text x="757" y="-20" font-family="monospace" font-size="16" fill="#33ff77" opacity="0.74">エ
+    <animate attributeName="y" from="-20" to="140" dur="4.41s" begin="4.73s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4.41s" begin="4.73s" repeatCount="indefinite"/>
+  </text>
+  <text x="782" y="-20" font-family="monospace" font-size="16" fill="#33ff77" opacity="0.69">川
+    <animate attributeName="y" from="-20" to="140" dur="5.18s" begin="2.02s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="5.18s" begin="2.02s" repeatCount="indefinite"/>
+  </text>
+</svg>
