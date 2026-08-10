@@ -23,8 +23,8 @@ jobs:
         with:
           github_user_name: Jahongir1274
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#FF3EA5&color_dots=#151021,#4a1942,#8b1e5c,#c92c6d,#ff3ea5
-            dist/github-contribution-grid-snake-light.svg?color_snake=#FF3EA5&color_dots=#e8e4ec,#f2b8d4,#f480b3,#ff5aa0,#ff3ea5
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FFD93D&color_dots=#1a1423,#6a2c70,#b83b5e,#f08a5d,#f9ed69
+            dist/github-contribution-grid-snake-light.svg?color_snake=#B83B5E&color_dots=#fff5e1,#ffd3b0,#ff9a76,#f08a5d,#b83b5e
  
       - name: Push snake svg
         uses: crazy-max/ghaction-github-pages@v4
