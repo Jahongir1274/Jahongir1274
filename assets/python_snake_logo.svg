@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="130" height="130">
+  <defs>
+    <linearGradient id="blueSnake" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5A9FD4"/>
+      <stop offset="100%" stop-color="#306998"/>
+    </linearGradient>
+    <linearGradient id="yellowSnake" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE873"/>
+      <stop offset="100%" stop-color="#FFD43B"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="6s" repeatCount="indefinite"/>
+
+    <!-- blue snake body -->
+    <path fill="url(#blueSnake)" d="M50,0 A50,50 0 0,1 50,100 A25,25 0 0,1 50,50 A25,25 0 0,0 50,0 Z"/>
+    <!-- yellow snake body -->
+    <path fill="url(#yellowSnake)" d="M50,100 A50,50 0 0,1 50,0 A25,25 0 0,1 50,50 A25,25 0 0,0 50,100 Z"/>
+
+    <!-- eyes -->
+    <rect x="44.5" y="18" width="9" height="9" rx="1.5" fill="#FFE873"/>
+    <rect x="44.5" y="73" width="9" height="9" rx="1.5" fill="#306998"/>
+  </g>
+</svg>
