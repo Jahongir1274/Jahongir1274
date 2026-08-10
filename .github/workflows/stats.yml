@@ -1,5 +1,5 @@
 name: Generate Stats Cards
-
+ 
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -7,7 +7,7 @@ on:
   push:
     branches:
       - main
-
+ 
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,7 +16,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
+ 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -24,7 +24,7 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
+ 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -32,7 +32,7 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
+ 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
